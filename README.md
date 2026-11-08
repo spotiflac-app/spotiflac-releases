@@ -7,9 +7,8 @@ the corresponding versioned source archives. Development is maintained
 separately. Each published release includes its license notices and matching
 source snapshot.
 
-Published downloads appear under this repository's Releases page. If no release
-is listed, the first production build is still being validated. Draft assets are
-restricted to maintainers until validation is complete.
+Download [SpotiFLAC v5.2.6](https://github.com/spotiflac-app/spotiflac-releases/releases/tag/v5.2.6)
+for Android, Windows, macOS, Linux and iOS. Product version: **5.2.6+165**.
 The existing website download links remain in place while the site is developed.
 
 ## Verify a package
@@ -28,8 +27,8 @@ LGPL-3.0-only license with its incorporated GPL-3.0 terms.
 
 The public release feed is
 `https://api.github.com/repos/spotiflac-app/spotiflac-releases/releases`.
-It remains empty until the first release is published. No GitHub credential is
-required or embedded in the application for public release downloads.
+It lists published releases. No GitHub credential is required or embedded
+in the application for public release downloads.
 
-The AltStore feed, after the first publication, is
+The AltStore feed is
 `https://github.com/spotiflac-app/spotiflac-releases/releases/latest/download/apps.json`.
